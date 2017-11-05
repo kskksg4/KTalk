@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "959490755551",
+    "firebase_url": "https://ktalk-9e333.firebaseio.com",
+    "project_id": "ktalk-9e333",
+    "storage_bucket": "ktalk-9e333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959490755551:android:67033b2e7a47a9b4",
+        "android_client_info": {
+          "package_name": "com.example.doityeah.ktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959490755551-oeo80g6j4955c7do5thhn9tftj1d9vgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doityeah.ktalk",
+            "certificate_hash": "ed5cbac6ab3275a2ef0a787ff424f61e23dc1bf5"
+          }
+        },
+        {
+          "client_id": "959490755551-97teegnqv75c96o5hg5dnascpgtjffhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEecexgk9K7PP1-RtNcq82JSOOhHtytmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959490755551-gvjcfacoug6iqk3dolg0h02gdigvfrl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myCompany.KTalk"
+              }
+            },
+            {
+              "client_id": "959490755551-97teegnqv75c96o5hg5dnascpgtjffhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
